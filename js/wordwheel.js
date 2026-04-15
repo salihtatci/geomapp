@@ -146,7 +146,7 @@ const WordWheel = (() => {
       const ly = parseFloat(el.style.top);
       const dx = px - lx;
       const dy = py - ly;
-      if (Math.sqrt(dx * dx + dy * dy) < el.offsetWidth / 2) {
+      if (Math.sqrt(dx * dx + dy * dy) < el.offsetWidth / 2 +12) {
         return i;
       }
     }
