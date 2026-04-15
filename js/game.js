@@ -16,7 +16,7 @@ const Game = (() => {
   let timerId = null;
   let timeLeft = 0;
   // Masaüstünde 6 sn, mobilde 15 sn
-  const TIME_PER_WORD = 15;
+  const TIME_PER_WORD = 30;
 
   const $ = id => document.getElementById(id);
   const els = {};
