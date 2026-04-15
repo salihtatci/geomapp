@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#0b3b5c" />
+  <title>Geomapp — Kelime Bulmaca</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <!-- =============== HOME SCREEN =============== -->
+  <section id="home-screen" class="screen active">
+    <div class="home-bg"></div>
+    <div class="home-content">
+      <div class="logo">
+        <span class="logo-main">Geo<span class="logo-accent">mapp</span></span>
+        <span class="logo-sub">Kelime Bulmaca</span>
+      </div>
+      <p class="welcome">Hoş Geldiniz</p>
+      <p class="tagline">Geomatik terimleriyle zihnini keşfe çıkar.</p>
+      <button id="btn-start" class="btn btn-primary">Oyuna Başla</button>
+      <div class="home-footer">v0.1 prototip</div>
+    </div>
+  </section>
+
+  <!-- =============== GAME SCREEN =============== -->
+  <section id="game-screen" class="screen">
+    <!-- Top bar -->
+    <header class="top-bar">
+      <button id="btn-back" class="icon-btn" aria-label="Geri">‹</button>
+      <div class="level-info">
+        <span class="level-label">Seviye</span>
+        <span id="level-number">1</span>
+      </div>
+      <div class="score-info">
+        <span class="score-label">Puan</span>
+        <span id="score-value">0</span>
+      </div>
+    </header>
+
+    <!-- Süre -->
+    <div class="timer-bar">
+      <div id="timer-fill" class="timer-fill"></div>
+      <span id="timer-text" class="timer-text">6</span>
+    </div>
+
+    <!-- Hint / clue -->
+    <div class="clue-box">
+      <span class="clue-label">İPUCU</span>
+      <p id="clue-text">Bir ipucu yükleniyor…</p>
+    </div>
+
+    <!-- Hedef kelimenin kutucukları -->
+    <div id="grid-container" class="grid-container"></div>
+
+    <!-- Word wheel -->
+    <div class="wheel-wrapper">
+      <svg id="wheel-lines" class="wheel-lines"></svg>
+      <div id="word-wheel" class="word-wheel"></div>
+    </div>
+
+    <!-- Action buttons -->
+    <div class="actions">
+      <button id="btn-shuffle" class="btn btn-ghost" title="Karıştır">
+        <span class="icon">⇄</span><span>Karıştır</span>
+      </button>
+      <button id="btn-hint" class="btn btn-ghost" title="İpucu (-10 puan)">
+        <span class="icon">💡</span><span>İpucu</span>
+      </button>
+      <button id="btn-dictionary" class="btn btn-ghost" title="Sözlük">
+        <span class="icon">📖</span><span>Sözlük</span>
+      </button>
+      <button id="btn-next" class="btn btn-ghost" title="Sonraki kelime">Atla →</button>
+    </div>
+  </section>
+
+  <!-- =============== MODAL =============== -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-box">
+      <h3 id="modal-title">Başlık</h3>
+      <p id="modal-body">İçerik</p>
+      <button id="modal-close" class="btn btn-primary">Tamam</button>
+    </div>
+  </div>
+
+  <!-- =============== TOAST =============== -->
+  <div id="toast" class="toast"></div>
+
+  <!-- Scripts (modular) -->
+  <script src="js/wordwheel.js"></script>
+  <script src="js/game.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,592 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "meaning": "Çevresi yollarla sınırlanmış ve çoğu parsellere bölünmüş arsa ile böyle bir arsayı kaplayan yapılar takımı, yapı adası.",
+      "word": "ADA",
+      "display": "Ada"
+    },
+    {
+      "id": 2,
+      "meaning": "Kesişen iki doğrultunun kesişim noktası, daire merkezi olarak kabul edildiğinde, iki doğrultunun daireyi kesmesi ile oluşan yay parçası ile ölçülebilen bir büyüklüktür.",
+      "word": "AÇI",
+      "display": "Açı"
+    },
+    {
+      "id": 3,
+      "meaning": "Uluslararası Jeodezi ve Jeofizik Birliği tarafından 1980 yılında benimsenen ve verilen parametrelerle tanımlanan eş potansiyelli elipsoide dayalı Referans Sistemidir.",
+      "word": "GRS",
+      "display": "GRS80"
+    },
+    {
+      "id": 4,
+      "meaning": "Üzerinde yapı kurulmak üzere ayrılmış yer; yasaya göre, belediye sınırları içinde bulunup belediyece parsellenmiş arazi.",
+      "word": "ARSA",
+      "display": "Arsa"
+    },
+    {
+      "id": 5,
+      "meaning": "Daire Yayı",
+      "word": "KURB",
+      "display": "Kurb"
+    },
+    {
+      "id": 6,
+      "meaning": "Nivelman noktalarında düşey olarak tutulabilen bölümlendirilmiş lata.",
+      "word": "MİRA",
+      "display": "Mira"
+    },
+    {
+      "id": 7,
+      "meaning": "Nivelmanda kullanılan Yatay gözlem yapan topografya aleti.",
+      "word": "NİVO",
+      "display": "Nivo"
+    },
+    {
+      "id": 8,
+      "meaning": "Birleşik bir ışık demetinin bir biçmeden geçtikten sonra ayrıldığı basit renklerden oluşmuş görüntü",
+      "word": "TAYF",
+      "display": "Tayf"
+    },
+    {
+      "id": 9,
+      "meaning": "Türlü amaçlarla yerden fırlatılan ve genellikle kapalı bir yörünge çizerek yer çevresinde dolanan araç",
+      "word": "UYDU",
+      "display": "Uydu"
+    },
+    {
+      "id": 10,
+      "meaning": "Eni ve boyu kırkar arşın olan eski bir yer ölçüsü, yaklaşık 1000 m2.",
+      "word": "DÖNÜM",
+      "display": "Dönüm"
+    },
+    {
+      "id": 11,
+      "meaning": "Bir yapı veya konutun satış ya da kira bedelinin, benzerleriyle karşılaştırılması.",
+      "word": "EMSAL",
+      "display": "Emsal"
+    },
+    {
+      "id": 12,
+      "meaning": "Bir noktadan geçen paralel dairenin meridyen üzerinde ekvatora olan açısal uzaklığıdır.",
+      "word": "ENLEM",
+      "display": "Enlem"
+    },
+    {
+      "id": 13,
+      "meaning": "Potansiyeli sıfır olan noktalardan oluşan ortalama deniz yüzeyine denir.",
+      "word": "GEOİT",
+      "display": "Geoit"
+    },
+    {
+      "id": 14,
+      "meaning": "Ölçmelerde gözlenen nokta.",
+      "word": "HEDEF",
+      "display": "Hedef"
+    },
+    {
+      "id": 15,
+      "meaning": "1. Üzerine proje çizilen levha. 2. Büyük haritaları meydana getiren ayrı parçalardan her biri.",
+      "word": "PAFTA",
+      "display": "PAFTA"
+    },
+    {
+      "id": 16,
+      "meaning": "Radyo dalgalarinin yankisini alarak cisimlerin yerini ve uzakligini bulabilen, genellikle uçak ve gemilerde kullanilan cihaz.",
+      "word": "RADAR",
+      "display": "Radar"
+    },
+    {
+      "id": 17,
+      "meaning": "Bir ışının saydam bir biçmeden geçtikten sonraki doğrultusu arasında oluşan açı",
+      "word": "SAPMA",
+      "display": "Sapma"
+    },
+    {
+      "id": 18,
+      "meaning": "Haritadaki uzunluk ile bu uzunluğun doğadaki (gerçek uzunluk) karşıtı arasındaki oran",
+      "word": "ÖLÇEK",
+      "display": "Ölçek"
+    },
+    {
+      "id": 19,
+      "meaning": "Bir toprak parçasını veya arsayı parçalara ayırma, parselleme, parselizasyon işlemi.",
+      "word": "İFRAZ",
+      "display": "İfraz"
+    },
+    {
+      "id": 20,
+      "meaning": "Çelik şerit ile yapılan boy ölçmesi. Yatay ve gergin tutulan çelik şerit ile iki nokta arasındaki yatay uzaklığın ölçülmesi işlemi",
+      "word": "ŞENAJ",
+      "display": "Şenaj"
+    },
+    {
+      "id": 21,
+      "meaning": "Bir noktadan geçen meridyen düzlemi ile başlangıç meridyeni düzlemi arasında kalan açıdır.",
+      "word": "BOYLAM",
+      "display": "Boylam"
+    },
+    {
+      "id": 22,
+      "meaning": "Dalga genişliği",
+      "word": "GENLİK",
+      "display": "Genlik"
+    },
+    {
+      "id": 23,
+      "meaning": "Yer yuvarı ya da başka bir gezegen yüzeyine ait nesne ve bilgileri, matematik kurallara göre geometrik altlık üzerinde kartografik işaretlerle gösteren bir bilgi iletişim aracıdır.",
+      "word": "HARİTA",
+      "display": "Harita"
+    },
+    {
+      "id": 24,
+      "meaning": "Harita takımında hangi gösterim aracının hangi obje ya da bilgiyi ifade ettiğinin açıklandığı pafta kesimidir. Lidar= Bir platformdan yeryüzeyi arasındaki mesafeyi lazer ışınları aracılığıyla ölçen aktif algılama yapan sistemlere verilen genel ad",
+      "word": "LEJAND",
+      "display": "Lejand"
+    },
+    {
+      "id": 25,
+      "meaning": "Bir yerden başka bir yere taşınabilen, taşınır.",
+      "word": "MENKUL",
+      "display": "MENKUL"
+    },
+    {
+      "id": 26,
+      "meaning": "Belli bir amaç için ayrılıp sınırlanmış arazi parçası, bir adanın parçalarından her biri.",
+      "word": "PARSEL",
+      "display": "PARSEL"
+    },
+    {
+      "id": 27,
+      "meaning": "Bir iletişim yolu veya sistemi ile taşınan etki",
+      "word": "SİNYAL",
+      "display": "Sinyal"
+    },
+    {
+      "id": 28,
+      "meaning": "Yeryüzü üzerinde olmayan, uçak, uydu vb. objelerin ortalama deniz yüzeyi, karşılaştırma elipsoidi ya da yeryüzünden olan yüksekliğidir.",
+      "word": "İRTİFA",
+      "display": "İrtifa"
+    },
+    {
+      "id": 29,
+      "meaning": "Su, elektrik, kanalizasyon, yol gibi tesislerin tümüne verilen ad",
+      "word": "ALTYAPI",
+      "display": "Altyapı"
+    },
+    {
+      "id": 30,
+      "meaning": "Birim zamandaki titreşim sayısıdır.",
+      "word": "FREKANS",
+      "display": "Frekans"
+    },
+    {
+      "id": 31,
+      "meaning": "Yeryüzünün kütle çekim kuvveti ile yerin kendi ekseni çevresinde dönmesinden oluşan merkazkaç kuvvetinin bileşkesidir.",
+      "word": "GRAVİTE",
+      "display": "Gravite"
+    },
+    {
+      "id": 32,
+      "meaning": "Elektromanyetik enerjinin, atmosferdeki taneciklerden yansıması ve kırılmasına verilen ad.",
+      "word": "SAÇILIM",
+      "display": "Saçılım"
+    },
+    {
+      "id": 33,
+      "meaning": "Teodolitte asal eksenin düşey konuma getirilmesi işlemi, Bir düzlemin yatay hale getirilmesi işlemi.",
+      "word": "TESVİYE",
+      "display": "Tesviye"
+    },
+    {
+      "id": 34,
+      "meaning": "1. Yürüyen bir noktanin izledigi veya çizdigi yol, mahrek 2. Bir gök cisminin hareket etmesi süresince aldigi yol",
+      "word": "YÖRÜNGE",
+      "display": "Yörünge"
+    },
+    {
+      "id": 35,
+      "meaning": "Gelişip güzelleşmesi, yaşayış koşullarının uygunlaştırılması için üzerinde çalışılmış olan yer; imar edilmiş.",
+      "word": "BAYINDIR",
+      "display": "Bayındır"
+    },
+    {
+      "id": 36,
+      "meaning": "Bir doğrultunun, tanımlanmış belli bir doğrultu ile düşey düzlemde yaptığı açıya denir.",
+      "word": "DÜŞEYAÇI",
+      "display": "Düşey Açı"
+    },
+    {
+      "id": 37,
+      "meaning": "Karşılaştırma elipsoidi Uluslararası Hayford Elipsoidi olan yatay datum.",
+      "word": "EDDATUMU",
+      "display": "ED-50 Datumu"
+    },
+    {
+      "id": 38,
+      "meaning": "3 boyutlu kartezyen koordinat sisteminde verilen denkleme sahip, her düzlem kesiti elips olan kapalı şekildir.",
+      "word": "ELİPSOİT",
+      "display": "Elipsoit"
+    },
+    {
+      "id": 39,
+      "meaning": "Her çeşit arazi ve mülklerin, alanını, sınırlarını ve değerlerini belirtip plana bağlama işi.",
+      "word": "KADASTRO",
+      "display": "KADASTRO"
+    },
+    {
+      "id": 40,
+      "meaning": "Güneşin ve ayın birlikte etkileri ile gök kutbunun ekliptik kutbu etrafında dolanımında düzensiz hareketidir.",
+      "word": "NUTASYON",
+      "display": "Nutasyon"
+    },
+    {
+      "id": 41,
+      "meaning": "Yükseklik farklarının belirlenmesi işlemi.",
+      "word": "NİVELMAN",
+      "display": "Nivelman"
+    },
+    {
+      "id": 42,
+      "meaning": "Küre üzerinde coğrafi koordinatları bilinen iki noktayı birleştiren en kısa yol, yani büyük daire yayıdır ve gnomonik projeksiyonda doğru olarak görünür.",
+      "word": "ORTODROM",
+      "display": "Ortodrom"
+    },
+    {
+      "id": 43,
+      "meaning": "Yatay ve düşey açıları ölçmeye yarayan topografya aleti. Gerekli donanımlar olması durumunda optik olarak boy ölçmesi de yapılabilir.",
+      "word": "TEODOLİT",
+      "display": "Teodolit"
+    },
+    {
+      "id": 44,
+      "meaning": "Üç boyutlu uzayda kesişen iki doğrultunun yatay düzleme izdüşümleri sonucu oluşturdukları açıya denir.",
+      "word": "YATAYAÇI",
+      "display": "Yatay Açı"
+    },
+    {
+      "id": 45,
+      "meaning": "Kamulaştırma.",
+      "word": "İSTİMLAK",
+      "display": "İSTİMLAK"
+    },
+    {
+      "id": 46,
+      "meaning": "Teodolitte yatay açı dairesinden merkezinden ve muylu ekseni ile optik eksenin kesişim noktasından geçtiği varsayılan, teodolitin etrafında dönebildiği eksen.",
+      "word": "ASALEKSEN",
+      "display": "Asal Eksen"
+    },
+    {
+      "id": 47,
+      "meaning": "İki komşu dalga tepesi arasında kalan uzaklık.",
+      "word": "DALGABOYU",
+      "display": "Dalga boyu"
+    },
+    {
+      "id": 48,
+      "meaning": "Eğer bir düşey açı, bir doğrultunun yatay doğrultu ile yaptığı açı şeklinde belirlenmiş ise bu açıya eğim açısı denir.",
+      "word": "EĞİMAÇISI",
+      "display": "Eğim Açısı"
+    },
+    {
+      "id": 49,
+      "meaning": "Bireysel ölçmelerin veya değerlerin tekrarlanma frekansını gösteren bir veri dizisinin grafik olarak görüntülenmesi, bir frekans dağılımı.",
+      "word": "HİSTOGRAM",
+      "display": "Histogram"
+    },
+    {
+      "id": 50,
+      "meaning": "Kat mülkiyeti hakkına sahip özel ya da tüzel kişi.",
+      "word": "KATMALİKİ",
+      "display": "KAT MALİKİ"
+    },
+    {
+      "id": 51,
+      "meaning": "Belirli bir karşılaştırma sisteminde bir noktanın konumunu tanımlayan doğrusal veya açısal büyüklüklerdir.",
+      "word": "KOORDİNAT",
+      "display": "Koordinat"
+    },
+    {
+      "id": 52,
+      "meaning": "Coğrafi koordinatları bilinen noktaları, meridyen doğrultuları ile sabit bir açı altında kesecek biçimde birleştiren eğridir. Merkator projeksiyonda doğru olarak görünür.",
+      "word": "LOKSODROM",
+      "display": "Loksodrom"
+    },
+    {
+      "id": 53,
+      "meaning": "Bir ölçümün veya deneyin sonuçlarının birbirine ne kadar yakın olduğunu ifade eder",
+      "word": "PRESİZYON",
+      "display": "Presizyon"
+    },
+    {
+      "id": 54,
+      "meaning": "Yıldızın saat dairesi ile gök meridyeni arasında, gök ekvatoru üzerinde meridyenden batıya doğru 0–24 saat ya da 0°–360° arasında ölçülen açıya saat açısı denir.",
+      "word": "SAATAÇISI",
+      "display": "Saat Açısı"
+    },
+    {
+      "id": 55,
+      "meaning": "Fiziksel yeryüzünün normal ağırlık alanındaki karşılığı olan ve fiziksel yeryüzüne benzeyen kuramsal bir yüzeydir.",
+      "word": "TELLÜROİT",
+      "display": "Tellüroit"
+    },
+    {
+      "id": 56,
+      "meaning": "Yeryüzünün büyüklüğünün ve şeklinin yanısıra, noktaların dünyanın ağırlık merkezine göre olan konumlarını, temel jeodezik datumlara göre dönüşümleri ve yeryüzünün potansiyelini (genellikle harmonik katsayılar şeklinde) tanımlayan uygun parametre kümesidir.",
+      "word": "WGSDATUMU",
+      "display": "WGS-84 Datumu"
+    },
+    {
+      "id": 57,
+      "meaning": "İmar yasasına göre, nüfusu 10.000'I aşmış yerleşmelerde yapılması zorunlu olan fiziksel plan.",
+      "word": "İMARPLANI",
+      "display": "İMAR PLANI"
+    },
+    {
+      "id": 58,
+      "meaning": "Işık şiddeti, sıcaklık gibi fiziksel büyüklükleri algılayıp bunları bilgi toplama sistemlerinin kullanabileceği uygun bir sinyale dönüştüren aygıttır.",
+      "word": "ALGILAYICI",
+      "display": "Algılayıcı"
+    },
+    {
+      "id": 59,
+      "meaning": "Proje üzerinde tasarlanmış bir geometrinin araziye aktarılması.",
+      "word": "APLİKASYON",
+      "display": "Aplikasyon"
+    },
+    {
+      "id": 60,
+      "meaning": "Dünya için gravite ile ilgili yükseklik ilişkilerinin tanımlandığı parametrelerdir.",
+      "word": "DÜŞEYDATUM",
+      "display": "Düşey Datum"
+    },
+    {
+      "id": 61,
+      "meaning": "Global bir nokta grubunun koordinat ve hızları da dikkate alınarak, IUGG (Uluslararası Jeodezi-Jeofizik Birliği) tarafından tanımlanan global bir karşılaştırma sistemidir.",
+      "word": "ITRFDATUMU",
+      "display": "ITRF Datumu"
+    },
+    {
+      "id": 62,
+      "meaning": "Elektromanyetik spektrumun 0,7–100 μm dalga boyu aralığındaki bölgeyi ifade eder ve uzaktan algılamada yakın, orta ve uzak (ısıl) kızılötesi alt bölgelere ayrılır.",
+      "word": "KIZILÖTESİ",
+      "display": "Kızılötesi"
+    },
+    {
+      "id": 63,
+      "meaning": "Bir kentin haritaları üzerine çizilen ve arazi parçalarının kullanış biçimleri ile başlıca bölge tiplerini belirten, yani kentin gelecekte alacağı biçimi gösteren plan.",
+      "word": "NAZIMPLANI",
+      "display": "NAZIM PLANI"
+    },
+    {
+      "id": 64,
+      "meaning": "Dürbünün objektif ve okülerin merkezlerinden geçen eksen.",
+      "word": "OPTİKEKSEN",
+      "display": "Optik Eksen"
+    },
+    {
+      "id": 65,
+      "meaning": "Meridyen dilim genişliği 6° olan, orta meridyenleri kısaltılarak kenar deformasyonları sınırlandırılan ve 84° kuzey ile 80° güney enlemleri arasındaki bölgelerin açı koruyan silindirik projeksiyonla haritalanmasında kullanılan bu sistemde, orta meridyeni 177° batı olan dilim 1 numara kabul edilir.",
+      "word": "UTMSİSTEMİ",
+      "display": "UTM Sistemi"
+    },
+    {
+      "id": 66,
+      "meaning": "Uzaysal ya da spektral olarak birbirine yakın sinyalleri ayırt edebilme ve mekânsal ayrıntı düzeyini gösteren ölçüdür.",
+      "word": "ÇÖZÜNÜRLÜK",
+      "display": "Çözünürlük"
+    },
+    {
+      "id": 67,
+      "meaning": "Bir arsanın imar planına ve imar yönetmeliğine göre nasıl kullanılabileceğini bildiren ve belediyece düzenlenerek istek üzerine arsa sahibine verilen belge.",
+      "word": "İMARDURUMU",
+      "display": "İMAR DURUMU"
+    },
+    {
+      "id": 68,
+      "meaning": "Fotoğrafın, izdüşüm merkezine gore konumlandırılmasıdır.",
+      "word": "İÇYÖNELTME",
+      "display": "İç yöneltme"
+    },
+    {
+      "id": 69,
+      "meaning": "Eğer bir düşey açı, düşey doğrultunun üst tarafından (başucundan) itibaren belirlenmiş ise bu açıya başucu açısı denir.",
+      "word": "BAŞUCUAÇISI",
+      "display": "Başucu Açısı"
+    },
+    {
+      "id": 70,
+      "meaning": "Referans yüzeyindeki uzunluk, alan ve şekil ilişkilerinin projeksiyon yüzeyine aktarılırken uğradığı bozulma ve değişmelere denir.",
+      "word": "DEFORMASYON",
+      "display": "Deformasyon"
+    },
+    {
+      "id": 71,
+      "meaning": "İki veya daha fazla fotoğraftan üç boyutlu modelin oluşturulması ve bu modelin konumlandırılması ve ölçeklendirilmesidir.",
+      "word": "DIŞYÖNELTME",
+      "display": "Dış Yöneltme"
+    },
+    {
+      "id": 72,
+      "meaning": "Taşınmaz mal.",
+      "word": "GAYRİMENKUL",
+      "display": "Gayrimenkul"
+    },
+    {
+      "id": 73,
+      "meaning": "Harita ve grafik gösterimlerin tasarım, üretim ve kullanımını inceleyen bilim dalıdır.",
+      "word": "KARTOGRAFYA",
+      "display": "Kartografya"
+    },
+    {
+      "id": 74,
+      "meaning": "Düşey açı dairesinin merkezinden geçen dürbünün etrafında dönebildiği eksen.",
+      "word": "MUYLUEKSENİ",
+      "display": "Muylu Ekseni"
+    },
+    {
+      "id": 75,
+      "meaning": "Küre veya elipsoit üzerinde coğrafi koordinatları bilinen noktaların belli matematik kurallar çerçevesinde düzlem veya düzleme açılabilen silindir koni gibi yardımcı yüzeylere aktarılması.",
+      "word": "PROJEKSİYON",
+      "display": "Projeksiyon"
+    },
+    {
+      "id": 76,
+      "meaning": "Üzerinde açı ve mesafe ölçülen, çekül doğrultusuna dik düzlemdir.",
+      "word": "YATAYDÜZLEM",
+      "display": "Yatay Düzlem"
+    },
+    {
+      "id": 77,
+      "meaning": "Eğer bir düşey açı, düşey doğrultunun alt tarafından (ayakucundan) itibaren belirlenmiş ise bu açıya ayakucu açısı denir. Nadir.",
+      "word": "AYAKUCUAÇISI",
+      "display": "Ayakucu Açısı"
+    },
+    {
+      "id": 78,
+      "meaning": "Fotogrametrik değerlendirmeye konu olan arazi parçası veya nesne üzerindeki konumdur.",
+      "word": "CİSİMNOKTASI",
+      "display": "Cisim Noktası"
+    },
+    {
+      "id": 79,
+      "meaning": "Aynı cisme ait iki ya da daha fazla fotoğraftan, belirli matematik temeller kullanılarak elde edilen üç boyutlu model üzerinde ölçme, değerlendirme ve yorumlama bilim ve tekniğidir.",
+      "word": "FOTOGRAMETRİ",
+      "display": "Fotogrametri"
+    },
+    {
+      "id": 80,
+      "meaning": "Bir ya da daha çok kişinin, bir yapının belirli bir bölümüne sahip olabilmesi.",
+      "word": "KATMÜLKİYETİ",
+      "display": "KAT MÜLKİYETİ"
+    },
+    {
+      "id": 81,
+      "meaning": "Tek konut için verilen tapu.",
+      "word": "MÜSTAKİLTAPU",
+      "display": "MÜSTAKİL TAPU"
+    },
+    {
+      "id": 82,
+      "meaning": "Bir poligon dizisinde, bir poligon noktasındaki ardışık iki poligon kenarının oluşturduğu ve hesap yönünün solunda kalan yatay açıdır.",
+      "word": "POLİGONAÇISI",
+      "display": "Poligon Açısı"
+    },
+    {
+      "id": 83,
+      "meaning": "Fotogrametrik değerlendirmeye konu olan arazi parçası veya nesne üzerindeki bir konumun resim üzerindeki izidir.",
+      "word": "RESİMNOKTASI",
+      "display": "Resim noktası"
+    },
+    {
+      "id": 84,
+      "meaning": "Yapıların değişmez röperlere göre arsaya yerleşmelerini belirten üstten görünüş, yerleşme planı.",
+      "word": "VAZİYETPLANI",
+      "display": "VAZİYET PLANI"
+    },
+    {
+      "id": 85,
+      "meaning": "Bir gravite alanının eşpotansiyel yüzeyine dik olan çizgidir.",
+      "word": "ÇEKÜLÇİZGİSİ",
+      "display": "Çekül Çizgisi"
+    },
+    {
+      "id": 86,
+      "meaning": "Bir yapının Kat Mülkiyeti Yasası hükümlerine göre bağımsız mülkiyete konu olan bölümlerden her biri.",
+      "word": "BAĞIMSIZBÖLÜM",
+      "display": "Bağımsız Bölüm"
+    },
+    {
+      "id": 87,
+      "meaning": "Farklı datumlara sahip bir koordinat sistemindeki koordinatların, diğer bir koordinat sistemindeki koordinatlara dönüştürülmesi işlemidir.",
+      "word": "DATUMDÖNÜŞÜMÜ",
+      "display": "Datum Dönüşümü"
+    },
+    {
+      "id": 88,
+      "meaning": "Haritası yapılacak bölgenin, amacı ve ölçeğine uygun olarak en önemli özelliklerini öne çıkarmak için bazı bilgilerin ihmal edilip bazılarının vurgulanarak gösterilmesidir.",
+      "word": "GENELLEŞTİRME",
+      "display": "Genelleştirme"
+    },
+    {
+      "id": 89,
+      "meaning": "Yeryüzünde jeodezik hesaplamalar için kullanılan koordinat sistemlerinin başlangıç noktasını, eksen yönlerini, Dünya’nın şekil ve büyüklüğünü; modern anlamda ise açısal hızını, gravite alanını ve yönelimini tanımlayan sistemdir.",
+      "word": "JEODEZİKDATUM",
+      "display": "Jeodezik Datum"
+    },
+    {
+      "id": 90,
+      "meaning": "Bir şeyi sahibinden satın alarak kamuya mal etmek, kamu yararına almak.",
+      "word": "KAMULAŞTIRMAK",
+      "display": "KAMULAŞTIRMAK"
+    },
+    {
+      "id": 91,
+      "meaning": "Döşeme üstünden bir üst katın döşeme üstüne olan uzaklığı.",
+      "word": "KATYÜKSEKLİĞİ",
+      "display": "KAT YÜKSEKLİĞİ"
+    },
+    {
+      "id": 92,
+      "meaning": "Geometrik parametreleri yanında, fiziksel parametreleri de (kütlesi ve açısal hızı) da belirlenen ve kuramsal olarak tanımlanan dönel elipsoit yüzeyidir.",
+      "word": "NİVOELİPSOİDİ",
+      "display": "Nivo Elipsoidi"
+    },
+    {
+      "id": 93,
+      "meaning": "Uydu görüntülerinin geometrik bozulmaları giderilerek projeksiyon düzlemine uygun hale getirilmesi işlemidir.",
+      "word": "REKTİFİKASYON",
+      "display": "Rektifikasyon"
+    },
+    {
+      "id": 94,
+      "meaning": "İnsanları ilgilendiren çeşitli konuların yeryüzündeki dağılış ve konumlarını özel gösterim teknikleriyle veren özel konulu haritalardır.",
+      "word": "TEMATİKHARİTA",
+      "display": "Tematik Harita"
+    },
+    {
+      "id": 95,
+      "meaning": "Meridyenin kuzey kesiminden başlayarak doğudan batıya doğru büyümek şartıyla gözlem yeri meridyeni ile gök cisminden geçen düşey daire arasındaki açıdır.",
+      "word": "JEODEZİKAZİMUT",
+      "display": "Jeodezik Azimut"
+    },
+    {
+      "id": 96,
+      "meaning": "Fotogrametrik değerlendirmede kullanılan, arazi ya da nesne üzerinde işaretlenmiş, üç boyutlu koordinatları bilinen ve dönüşüm işlemlerinde esas alınan eşlenik noktalardır.",
+      "word": "KONTROLNOKTASI",
+      "display": "Kontrol Noktası"
+    },
+    {
+      "id": 97,
+      "meaning": "Asal eksenin istasyon noktasından geçirilmesi işlemdir.",
+      "word": "MERKEZLENDİRME",
+      "display": "Merkezlendirme"
+    },
+    {
+      "id": 98,
+      "meaning": "Karşılıklı yöneltme ile oluşturulan fotoğrafın konumlandırılması ve ölçeklendirilmesidir.",
+      "word": "MUTLAKYÖNELTME",
+      "display": "Mutlak yöneltme"
+    }
+  ]
+}
